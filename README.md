@@ -23,6 +23,7 @@
 ## I'm currently learning 🌱
 
 ![Jest](https://img.shields.io/badge/-JEST-red)
+![Rive](https://img.shields.io/badge/Rive-lightgrey)
 
 ## Planned 👀
 
