@@ -32,4 +32,5 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Where to find me?
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) https://www.behance.net/domenusfedo/projects
+![Behance](https://img.shields.io/badge/https%3A%2F%2Fwww.behance.net%2Fdomenusfedo-Behance-blue)
+![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdominik--globisz--a287b6229%2F-LinkedIn-blue)
