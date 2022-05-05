@@ -1,9 +1,5 @@
 ## Welcome, my name is Dominik 👋 
 
-### I am self taught web developer who really love creating sites from scratch.
-
-### Constantly developing and improving my qualifications.
-
 ## I'm currently working with 
 
 #### Front-End
