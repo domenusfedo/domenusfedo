@@ -9,11 +9,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![StoryBook](https://camo.githubusercontent.com/27297163d3ed496479d5692dc8ab7709e10f28b34d12fdac65f3b55ceb761999/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53746f7279626f6f6b2d6666343738353f6c6f676f3d53746f7279626f6f6b266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![StoryBook](https://img.shields.io/badge/%20-Storybook-pink)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 #### Others
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
