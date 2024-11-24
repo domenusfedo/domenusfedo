@@ -45,6 +45,4 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Where to find me?
-![Behance](https://img.shields.io/badge/https%3A%2F%2Fwww.behance.net%2Fdomenusfedo-Behance-blue)
-![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdominik--globisz--a287b6229%2F-LinkedIn-blue)
+
