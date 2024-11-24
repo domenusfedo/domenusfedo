@@ -1,4 +1,4 @@
-## Welcome, my name is Dominik 👋 
+## Welcome 👋 
 
 ## I'm currently working with 
 
